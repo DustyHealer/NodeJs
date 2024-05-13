@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Himanshu Singhal",
+  "type": "module",
   "license": "ISC",
   "dependencies": {
     "@angular/cli": "^17.3.7",

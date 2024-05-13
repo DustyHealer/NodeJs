@@ -26,3 +26,5 @@ nodemon index.js or nodemon index
 
 # To uninstall a package
 node uninstall package-name
+
+** In order to use the ES6 modules, we need to add "type":"module" in the package.json
