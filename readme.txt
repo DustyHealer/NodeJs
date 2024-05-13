@@ -23,3 +23,6 @@ npm install --save-dev nodemon
 # To run a project using node or nodemon
 node index.js or node index
 nodemon index.js or nodemon index
+
+# To uninstall a package
+node uninstall package-name

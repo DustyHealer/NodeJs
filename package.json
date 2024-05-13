@@ -9,9 +9,7 @@
   "author": "Himanshu Singhal",
   "license": "ISC",
   "dependencies": {
+    "@angular/cli": "^17.3.7",
     "express": "^4.19.2"
-  },
-  "devDependencies": {
-    "nodemon": "^3.1.0"
   }
 }
